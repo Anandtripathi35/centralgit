@@ -1,1 +1,3 @@
 import beautifulsoup from bs4
+now we will create file handle.
+fh = input"Pls type your name"
